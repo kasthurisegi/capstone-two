@@ -197,11 +197,11 @@ animation-delay: 9.5s;
 }
 
 50% {
-  transform: translateY(0vh) translateX(90vw) scale(0.6);
+  transform: translateY(0vh) translateX(85vw) scale(0.6);
 }
 
 70% {
-  transform: translateY(0vh) translateX(98vw) scale(0.2);
+  transform: translateY(0vh) translateX(88vw) scale(0.2);
 }
 
 
@@ -230,11 +230,11 @@ animation-delay: 9.5s;
 }
 
 50% {
-  transform: translateY(0vh) translateX(90vw) scale(0.45);
+  transform: translateY(0vh) translateX(85vw) scale(0.45);
 }
 
 70% {
-  transform: translateY(0vh) translateX(98vw) scale(0.2);
+  transform: translateY(0vh) translateX(88vw) scale(0.2);
 }
 
 }
